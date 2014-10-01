@@ -9,7 +9,8 @@
   },
   "keywords": [
     "sailor",
-    "module"
+    "module",
+    "validator"
   ],
   "license": "MIT",
   "repository" : {
