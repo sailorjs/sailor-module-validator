@@ -1,6 +1,6 @@
 ## -- Dependencies -------------------------------------------------------------
 
-expressValidator = require('express-validator')
+expressValidator = require('sailorjs/node_modules/sailor-validator/node_modules/express-validator')
 
 ## -- Exports ------------------------------------------------------------------
 

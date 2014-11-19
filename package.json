@@ -7,9 +7,6 @@
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "dependencies": {
-    "express-validator": "*"
-  },
   "keywords": [
     "sailor",
     "module",
