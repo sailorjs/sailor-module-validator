@@ -1,11 +1,14 @@
 {
   "name": "sailor-module-validator",
   "description": "Enables Validator middleware",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
+  },
+  "dependencies": {
+    "express-validator": "*"
   },
   "keywords": [
     "sailor",
@@ -13,8 +16,8 @@
     "validator"
   ],
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url"  : "http://github.com/sailorjs/sailor-module-validator.git"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sailorjs/sailor-module-validator.git"
   }
 }
